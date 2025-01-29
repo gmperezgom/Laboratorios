@@ -1,0 +1,2 @@
+# Laboratorios
+Laboratorio Pensamiento Computacional
