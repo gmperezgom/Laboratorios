@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\bin\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.exe.config
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\bin\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.exe
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\bin\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.pdb
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\obj\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\obj\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\obj\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.exe
+C:\Users\HP\Desktop\Proyecto2-ParteB-Gerber Pérez-1165825\Proyecto2-ParteB-Gerber Pérez-1165825\obj\Debug\Proyecto2-ParteB-Gerber Pérez-1165825.pdb
